@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fleet>
+<cd cdid='a'>
+<TM>9:00-10:00</TM>
+<Monday>MP</Monday>
+<Tuesday>WD</Tuesday>
+<Wednesday>SE</Wednesday>
+<Thursday>DBT</Thursday>
+<Friday>MP</Friday>
+<Saturday>RM</Saturday>
+
+</cd>
+<cd cdid='b'>
+<TM>10:00-11:00</TM>
+<Monday>DBT-LAB</Monday>
+<Tuesday>DBT-LAB</Tuesday>
+<Wednesday>SE</Wednesday>
+<Thursday>MP</Thursday>
+<Friday>RM</Friday>
+<Saturday>WD</Saturday>
+</cd>
+<cd cdid='c'>
+<TM>11:00-12:00</TM>
+<Monday>DBT</Monday>
+<Tuesday>DBT</Tuesday>
+<Wednesday>SE</Wednesday>
+<Thursday>MP</Thursday>
+<Friday>RM</Friday>
+<Saturday>RM</Saturday>
+
+</cd>
+<cd cdid='d'>
+<TM>12:00-1:00</TM>
+<Monday>MP</Monday>
+<Tuesday>MP</Tuesday>
+<Wednesday>DBT</Wednesday>
+<Thursday>RM</Thursday>
+<Friday>MP</Friday>
+<Saturday>MP</Saturday>
+</cd>
+<cd cdid='e'>
+<TM>1:00-2:00</TM>
+<Monday> Break</Monday>
+<Tuesday>Break</Tuesday>
+<Wednesday>Break</Wednesday>
+<Thursday>Break</Thursday>
+<Friday>Break</Friday>
+<Saturday>Break</Saturday>
+</cd>
+<cd
+cdid='f'>
+<TM>2:00-3:00</TM>
+<Monday>MP</Monday>
+<Tuesday>MP</Tuesday>
+<Wednesday>DBT</Wednesday>
+<Thursday>SE</Thursday>
+<Friday>SE</Friday>
+<Saturday>DBT</Saturday>
+</cd>
+
+<TM>3:00-4:00</TM>
+<Monday>RM</Monday>
+<Tuesday>DBT</Tuesday>
+<Wednesday>RM</Wednesday>
+<Thursday>MP</Thursday>
+<Friday>SE</Friday>
+<Saturday>WD</Saturday>
+
+
+
+</fleet>
